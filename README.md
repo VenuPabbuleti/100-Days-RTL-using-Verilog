@@ -1,4 +1,2 @@
 # Verilog_RTL
-RTL Design using Verilog Hardware Description Language
-
-001-Verilog Design Modelling Styles
+A comprehensive series of RTL design tutorials covering various aspects of digital design
