@@ -1,6 +1,6 @@
 			# 100 days of RTL Design using Verilog
-    	Welcome to the 100 Days of RTL (Register Transfer Level) Design Challenge! This challenge is designed to help you improve 
-     	your skills in digital circuit design using Verilog, a hardware description language widely used in the industry.
+    Welcome to the 100 Days of RTL (Register Transfer Level) Design Challenge! This challenge is designed to help you improve 
+    your skills in digital circuit design using Verilog, a hardware description language widely used in the industry.
 
   
    ![Uploading Day_003.jpg…]()
