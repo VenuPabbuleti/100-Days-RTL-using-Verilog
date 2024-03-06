@@ -1,6 +1,7 @@
 			# 100 days of RTL Design using Verilog
+    	Welcome to the 100 Days of RTL (Register Transfer Level) Design Challenge! This challenge is designed to help you improve your skills in digital circuit design using Verilog, a hardware description language widely used in the industry.
 
-   Welcome to the 100 Days of RTL (Register Transfer Level) Design Challenge! This challenge is designed to help you improve your skills in digital circuit design using Verilog, a hardware description language widely used in the industry.
+  
    ![Uploading Day_003.jpg…]()
    Verilog is a hardware description language used for modeling electronic systems. It allows designers to describe digital circuits at various levels of abstraction.Verilog facilitates 
     simulation, synthesis, and verification of digital designs. It supports both behavioral and structural modeling paradigms. Widely utilized in ASIC and FPGA design, Verilog enables 
