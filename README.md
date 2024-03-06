@@ -12,7 +12,7 @@
     
     What is RTL Design?
 	RTL Design involves describing digital circuits at a low level of abstraction, focusing on the flow of 
-    data between registers.It's a crucial step in hardware development, especially for ASIC  and FPGA  designs.
+    data between registers.It's a crucial step in hardware development, especially for ASIC and FPGA designs.
   
 
 
